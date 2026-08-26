@@ -1,6 +1,6 @@
-# 🤖 Candidate Recommendation Bot for Slack – nformal Sr. Technical Consultant Challenge
+# 🤖 Candidate Recommendation Bot for Slack
 
-This project provides an automated solution for recommending top job candidates using Eightfold match scores, summarizing their fit and gaps, and posting structured messages into a Slack channel. It was developed as part of the **nformal Technical Consultant / SA Challenge**.
+This project provides an automated solution for recommending top job candidates using Eightfold match scores, summarizing their fit and gaps, and posting structured messages into a Slack channel.
 
 ---
 
