@@ -6,7 +6,7 @@ This project provides an automated solution for recommending top job candidates 
 
 ## 🎯 Challenge Overview
 
-You are working for a recruiting firm using Eightfold to source candidates for various open roles. The goal is to:
+The goal is to:
 
 - Select the **top 2 candidates** per position based on match score.
 - Post this information to a designated **Slack channel**.
@@ -28,7 +28,7 @@ Eightfold assigns a **match score from 0 to 5** for each candidate-position pair
 
 ## 📤 Expected Slack Message
 
-Each message should include:
+The message should include:
 
 - 🎯 **Position Title & Location**
 - 🧑‍💼 Top 2 Candidates (name, location, profile link, resume link)
