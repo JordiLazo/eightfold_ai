@@ -28,7 +28,7 @@ Eightfold assigns a **match score from 0 to 5** for each candidate-position pair
 
 ## 📤 Expected Slack Message
 
-The message should include:
+The message will display as follows:
 
 - 🎯 **Position Title & Location**
 - 🧑‍💼 Top 2 Candidates (name, location, profile link, resume link)
